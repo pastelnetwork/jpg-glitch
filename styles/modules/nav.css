@@ -123,6 +123,13 @@
 	transform: rotate(-180deg) scale(1.5);
 }
 
+.photo-button, 
+.share-toggle-button,
+.settings-button,
+.info-button {
+	display: none !important;
+}
+
 .nav-headline {
 	/*height: 50px;*/
 	line-height: 50px;
